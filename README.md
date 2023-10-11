@@ -83,9 +83,8 @@ function checkGuess() {
     guessInput.value = '';
 }
 ```
-The `answers.json` file contains a list of prime numbers used as possible answers in the game.
+The `answers.json` file contains a list of prime numbers between 2 and 97, which are used as possible answers for the game
 ```json
-// This JSON file contains a list of prime numbers between 2 and 97, which are used as possible answers for the game.
 [
     {"value": 2},
     {"value": 3},
