@@ -1,6 +1,6 @@
 # Guess the Number
 
-A simple web-based game where you need to guess a prime number between 2 and 97. Are you up for the challenge?
+A simple web-based game where you need to guess a prime number between 2 and 97.
 
 ## How to Set Up and Play
 
